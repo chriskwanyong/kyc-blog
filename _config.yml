@@ -28,6 +28,7 @@ twitter_username: st_tuper
 github_username:  chriskwanyong
 
 # Build settings
+future: true
 theme: minima
 plugins:
   - jekyll-feed
