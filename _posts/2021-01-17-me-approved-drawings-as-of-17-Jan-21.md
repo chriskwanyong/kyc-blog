@@ -3,6 +3,7 @@ layout: post
 title:  "Updated M&E Drawings"
 date:   2021-01-17 11:43:47 +0800
 categories: jekyll update
+comments: true
 ---
 
 <ul id="myULa">  
