@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated M&E Drawings"
-date:   2021-01-17 11:43:47 +0800
+date:   2021-02-05 6:43:47 +0800
 categories: jekyll update
 comments: true
 ---
@@ -265,12 +265,13 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1x7ZNZa58kIVv6i-a7hv8xwnHGMqYJqyx/view?usp=sharing" target="_blank">PWD Intercom System</a></li>
   <li><a href="https://drive.google.com/file/d/1irAd7ZeABYoPHl-z5Q4V7dNRfhzT7c_9/view?usp=sharing" target="_blank">Stage Lighting System</a></li>
   <li><a href="https://drive.google.com/file/d/1n5_Z8uwztga3YLLeUzHsJ3DHeH1w0RKr/view?usp=sharing" target="_blank">AV System - Typical Classrooms</a></li>
-  <li><a href="https://drive.google.com/file/d/16rEyi7E2ivomCEdDrPUOy8E98QiAAwbr/view?usp=sharing" target="_blank">AV System - Lecture Theatre (outdated)</a></li>
+  <li><a href="https://drive.google.com/file/d/1JGAoQvjI5xLDgaCJSy7ggFab1c9pLDc8/view?usp=sharing" target="_blank">AV System - Lecture Theatre</a></li>
   <li><a href="https://drive.google.com/file/d/1tjxpAkQQ8liEZMecsfr2p7F1YbB2zupY/view?usp=sharing" target="_blank">AV System - AV Room</a></li>
   <li><a href="https://drive.google.com/file/d/1H-lgPHDSxjxOVXcszwcdZxUaBfs5gPIh/view?usp=sharing" target="_blank">AV System - Professional Room 1 & 2</a></li>
   <li><a href="#" target="_blank">AV System - Professional Room 3 & 4</a></li>
   <li><a href="https://drive.google.com/file/d/1y1qN0rZbnpEIdV3XCLQRQ-7f9bFSM_8P/view?usp=sharing" target="_blank">AV System - Professional Room 5 & 6</a></li>
   <li><a href="https://drive.google.com/file/d/1D48ioy8_3qbrOrjzlOZQ4TjEpWqm5Hhi/view?usp=sharing" target="_blank">EM Door Holder Schematic</a></li>
+  
 </ul>
 
 <h3 id="IrrigationDwgs">Irrigation Drawings</h3>
