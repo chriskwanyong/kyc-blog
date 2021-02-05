@@ -253,6 +253,7 @@ comments: true
 <h3 id="ELVDwgs">ELV Schematic Diagrams</h3>
 <ul id="myUL">
   <li><a href="https://drive.google.com/file/d/1UHZk7DFitDM1NaHbw0ocq-_3FRgE4Xrw/view?usp=sharing" target="_blank">PA System</a></li>
+  <li><a href="https://drive.google.com/file/d/1N0l_2JLmYx4t5wz4NmgiBZaK80mjk85F/view?usp=sharing" target="_blank">Access Control and Intrusion Detection System</a></li>
   <li><a href="https://drive.google.com/file/d/17-NKr2HElXPbroT6-7JonQxZkjdkuLG9/view?usp=sharing" target="_blank">Telephone System</a></li>
   <li><a href="https://drive.google.com/file/d/12UA211xdx31TaFqF0YPRf65de47sAaI3/view?usp=sharing" target="_blank">Structured Cabling System</a></li>
   <li><a href="https://drive.google.com/file/d/1ObayDfFCT-Esbt-R85BsGFFTM8P4iHnD/view?usp=sharing" target="_blank">Earthing System</a></li>
