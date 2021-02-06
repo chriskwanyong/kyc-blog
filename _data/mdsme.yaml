@@ -4,6 +4,36 @@
   status: approved
   approval_date: 16-Jan-2019
   url: "#"
+  
+- mds_no: MDS/YISS/M&E/175A
+  title: "Submission of Lighting Control Panel for Basketball Court at MPH L1"
+  status: "approved with comments"
+  approval_date: 26-Oct-2020
+  url: "https://drive.google.com/file/d/1fX1qErl2jcuN9zL9yvd8-_WAUSJ10AZ5/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/176
+  title: "Submission of Power Layout & SLD for Professional Rm 5 & 6"
+  status: resubmit
+  approval_date: N/A
+  url: "https://drive.google.com/file/d/1fSeH4Y-HG9CQ21S04TOSLWb5I2fJ4Gmc/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/177
+  title: "Submission of Lux Simulation Report for Level 1 Basketball Court"
+  status: "approved with comments"
+  approval_date: 27-Oct-2020
+  url: "https://drive.google.com/file/d/17KsEgLC0mKac0FU_NrIHCyw4vW-92tIt/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/178
+  title: "Submission of ACMV Control Panel Location Plan & Elevation Drawing"
+  status: approved
+  approval_date: 29-Oct-2020
+  url: "https://drive.google.com/file/d/1jOQSjEowt5yP6sgw2u765LmeiAiaxCtL/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/179
+  title: "Submission of First Cut Operation and Maintenance Manual for Irrigation System"
+  status: pending
+  approval_date: N/A
+  url: "https://drive.google.com/file/d/1YsfJZMC1_CBoSG9ISmyEV-gUotK0y_4i/view?usp=sharing"
 
 - mds_no: MDS/YISS/M&E/180A
   title: "Submission of Fire Mimic Panel Shop Drawing"
