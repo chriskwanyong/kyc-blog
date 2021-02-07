@@ -4,6 +4,96 @@
   status: approved
   approval_date: 16-Jan-2019
   url: "#"
+
+- mds_no: MDS/YISS/M&E/160
+  title: "Submission of Wet Chemical Kitchen Suppression Technical Write Up"
+  status: approved
+  approval_date: 15-Oct-2020
+  url: "https://drive.google.com/file/d/1luhr-M2bHkXj_E0Djm0zvzdZuW5SxdDl/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/161
+  title: "Submission of Material Catalogue for Long Throw Projector"
+  status: approved
+  approval_date: 05-Aug-2020
+  url: "https://drive.google.com/file/d/18XH6rrEs6rJkT8bxRszG_KEHBcuy0PTI/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/162
+  title: "Submission of FCC Layout and Elevation Shop Drawing"
+  status: approved
+  approval_date: 19-Aug-2020
+  url: "https://drive.google.com/file/d/1cPbRPEiTVzGftgPUsFhUZAsMwnaShthj/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/163
+  title: "Submission of First Cut of OMM for Lift System"
+  status: resubmit
+  approval_date: N/A
+  url: "https://drive.google.com/file/d/1IfippZVQIrJJ9neOD39A85ddv2PuiSlo/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/164
+  title: "Submission of First Cut of OMM for ACMV System"
+  status: resubmit
+  approval_date: N/A
+  url: "https://drive.google.com/file/d/11ZzVZkURAvlutXt5ZHyUvWpc3nUz4edZ/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/165B
+  title: "Submission of Roof Lighting Layout"
+  status: approved with comments
+  approval_date: 26-Oct-2020
+  url: "https://drive.google.com/file/d/1W0ndklKuW0EoTfgd8LzSJPZKuMYgpizu/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/166C
+  title: "Submission of Media Resource Library Lighting Layout"
+  status: approved
+  approval_date: 10-Dec-2020
+  url: "https://drive.google.com/file/d/1j9JfEPnVvlk1PX9HmN-43Ku8qjxvYTB7/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/167B
+  title: "Submission of MPH and ISH Lighting Control Panel"
+  status: approved with comments
+  approval_date: 11-Jan-2021
+  url: "https://drive.google.com/file/d/14q5RqmrCaFomPsHwMZtXtygSv-oi26YT/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/168
+  title: "Company Profile of Proposed Plumbing, Gas & Sanitary Subcontractor"
+  status: resubmit
+  approval_date: 02-Nov-2020
+  url: "https://drive.google.com/file/d/1cTrSlQ-YSqP3YgpKgZiQX07dhlCsZLh_/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/169A
+  title: "Submission of Lux Simulation Report for 7th Sty Typical Classrooms"
+  status: withdrawn
+  approval_date: N/A
+  url: "https://drive.google.com/file/d/1jS0zeO8SzfHZYIyQKF5MAUE4Cwr4lKoF/view?usp=sharing"
+
+- mds_no: MDS/YISS/M&E/0170
+  title: "Submission of Brazing Hearth Material Catalogue"
+  status: approved with comments
+  approval_date: 14-Oct-2020
+  url: "https://drive.google.com/file/d/1-q8109nlsRpqggMGEUcyCb8plcisJ2j9/view?usp=sharing"
+  
+- mds_no: MDS/YISS/M&E/0171
+  title: "Submission of Light Fittings Material Catalogue for Heritage Area"
+  status: approved
+  approval_date: 23-Sep-2020
+  url: "https://drive.google.com/file/d/1gQoelrkISbc74sf-fIgy8QsWR7kjsUox/view?usp=sharing"
+
+#- mds_no: MDS/YISS/M&E/0172
+#  title: "Company Profile of Proposed Plumbing, Gas & Sanitary Subcontractor"
+#  status: approved
+#  approval_date: 16-Jan-2020
+#  url: "#"
+  
+- mds_no: MDS/YISS/M&E/0173A
+  title: "Submission of Equipotential Bonding for Football Field Fence"
+  status: approved
+  approval_date: 02-Feb-2020
+  url: "https://drive.google.com/file/d/17Hm7wXpQd3sPfRtdfJqnqTQLX3JxlVTo/view?usp=sharing" 
+ 
+- mds_no: MDS/YISS/M&E/0174
+  title: "Submission of Method Statement for MV Ductworks Installation"
+  status: approved
+  approval_date: 14-Oct-2020
+  url: "https://drive.google.com/file/d/1o-BU343LhLoYlvuf8oAzT0KdmQN3uBdW/view?usp=sharing"  
   
 - mds_no: MDS/YISS/M&E/175A
   title: "Submission of Lighting Control Panel for Basketball Court at MPH L1"
