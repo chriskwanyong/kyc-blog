@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated M&E Drawings"
-date:   2021-02-05 6:43:47 +0800
+date:   2021-02-14 12:43:47 +0800
 categories: jekyll update
 comments: true
 ---
@@ -242,6 +242,7 @@ comments: true
 <ul id="myUL">
   <li><a href="https://drive.google.com/file/d/1pjtxi0fg8i9IbN2v9GBEgmmMpL-LVbh7/view?usp=sharing" target="_blank">Heritage Area</a></li>
   <li><a href="https://drive.google.com/file/d/1yfcteu4Vk7wyUq1hNETyOQBcnIfzYmh2/view?usp=sharing" target="_blank">Lecture Theatre</a></li>
+  <li><a href="https://drive.google.com/file/d/1URzhWcbJhmYt48B4JuaUWlhbmVHJPHgL/view?usp=sharing" target="_blank">Staff Lounge</a></li>
   <li><a href="#" target="_blank">3rd Storey</a></li>
   <li><a href="#" target="_blank">4th Storey</a></li>
   <li><a href="#" target="_blank">5th Storey</a></li>
