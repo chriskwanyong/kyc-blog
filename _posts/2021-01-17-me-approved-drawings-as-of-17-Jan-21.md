@@ -118,6 +118,8 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1dfGbZ4xhAc35Vz7hvNRaJgMz5pYWpP2s/view?usp=sharing" target="_blank">7th Storey</a></li>
   <li><a href="https://drive.google.com/file/d/1Lok1SlDbrRHeJpbZOD6CEvEEm8Gj5c1o/view?usp=sharing" target="_blank">Roof Storey</a></li>
   <li><a href="https://drive.google.com/file/d/16WzysU5VPMZoMxnzlhQUyIUshQJAmdP0/view?usp=sharing" target="_blank">Water Tank Detail Drawing</a></li>
+  <li><a href="https://drive.google.com/file/d/1NRdtFPoPdGD5HjGCfMgQ_4lIpxf0qibi/view?usp=sharing" target="_blank">Hydrant Location Plan</a></li>
+  
 </ul>
 
 <h3 id="SanitaryDwgs">Sanitary Drawings</h3>
