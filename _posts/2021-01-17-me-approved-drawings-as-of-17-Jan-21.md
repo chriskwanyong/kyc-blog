@@ -89,8 +89,8 @@ comments: true
 
 <h3 id="FPSDwgs">Fire Protection Drawings</h3>
 <ul id="myUL">
-  <li><a href="https://drive.google.com/file/d/1vaOamnZ7xNmS1rr2GJJwGpuULAJn-_C9/view?usp=sharing" target="_blank">1st Storey - Part 1 of 2</a></li>
-  <li><a href="https://drive.google.com/file/d/1CFlVPS4VPXumgHWXNCTRydTBENndwJea/view?usp=sharing" target="_blank">1st Storey - Part 2 of 2</a></li>
+  <li><a href="https://drive.google.com/file/d/12qEXQmwGYDCAgsjYCD60_TSS3uhGsAwJ/view?usp=sharing" target="_blank">1st Storey - Part 1 of 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1x6WENCLl8KPEOv44N1BibLKN0Eqhx0_z/view?usp=sharing" target="_blank">1st Storey - Part 2 of 2</a></li>
   <li><a href="https://drive.google.com/file/d/1lmtLLWVE2M4A4Y3LmlTcNrYvzOB29can/view?usp=sharing" target="_blank">2nd Storey</a></li>
   <li><a href="https://drive.google.com/file/d/1w2SfX-a9JWoAXbM9C0-HEgeO0jgXnNNu/view?usp=sharing" target="_blank">3rd Storey</a></li>
   <li><a href="https://drive.google.com/file/d/1Bv-VaGlO-6sEMoUfcu_v2EUDbi-YR0F3/view?usp=sharing" target="_blank">4th Storey</a></li>
@@ -243,12 +243,12 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1pjtxi0fg8i9IbN2v9GBEgmmMpL-LVbh7/view?usp=sharing" target="_blank">Heritage Area</a></li>
   <li><a href="https://drive.google.com/file/d/1yfcteu4Vk7wyUq1hNETyOQBcnIfzYmh2/view?usp=sharing" target="_blank">Lecture Theatre</a></li>
   <li><a href="https://drive.google.com/file/d/1URzhWcbJhmYt48B4JuaUWlhbmVHJPHgL/view?usp=sharing" target="_blank">Staff Lounge</a></li>
-  <li><a href="#" target="_blank">3rd Storey</a></li>
+<!--   <li><a href="#" target="_blank">3rd Storey</a></li>
   <li><a href="#" target="_blank">4th Storey</a></li>
   <li><a href="#" target="_blank">5th Storey</a></li>
   <li><a href="#" target="_blank">6th Storey</a></li>
   <li><a href="#" target="_blank">7th Storey</a></li>
-  <li><a href="#" target="_blank">Roof Storey</a></li>
+  <li><a href="#" target="_blank">Roof Storey</a></li> -->
 </ul>
 
 <h3 id="ELVDwgs">ELV Schematic Diagrams</h3>
