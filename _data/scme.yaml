@@ -1,8 +1,73 @@
 # M&E Site Confirmation Collection
 # - scme_no: SC/YISS/M&E/265
 #   title: ""
-#   issued_date: 15-Dec-2020
+#   issued_date: 15-Jan-2020
 #   url: ""
+
+# - scme_no: SC/YISS/M&E/265
+#   title: ""
+#   issued_date: 15-Jan-2020
+#   url: ""
+
+# - scme_no: SC/YISS/M&E/265
+#   title: ""
+#   issued_date: 15-Jan-2020
+#   url: ""
+
+# - scme_no: SC/YISS/M&E/265
+#   title: ""
+#   issued_date: 15-Jan-2020
+#   url: ""
+
+- scme_no: SC/YISS/M&E/181
+  title: "Confirmation of Exposed Piping Installation for MPH L1 Toilets"
+  issued_date: 20-Jul-2020
+  url: "https://drive.google.com/file/d/1cnQqwNqTFXFqRflgnCNakydZxPzZZuQE/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/191
+  title: "Confirmation of Removal of Equipotential Mesh at 1st Sty Football Field"
+  issued_date: 01-Oct-2020
+  url: "https://drive.google.com/file/d/1qDNzFvzQH8RYkHXz1WGncR6gFweXG_x6/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/196
+  title: "Confirmation of CCTV Monitor Size at General Office"
+  issued_date: 12-Oct-2020
+  url: "https://drive.google.com/file/d/1b5k8MXBIzuTBjDhi3J9cjVim36hLBAY0/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/200A
+  title: "Confirmation of Trunking Penetration from ISH Toilet to ISH Store Rev 1"
+  issued_date: 11-Nov-2020
+  url: "https://drive.google.com/file/d/1f9-6MoMXIvC6TTHIwoq6N965MbJerZhz/view?usp=sharing"
+
+- scme_no: SC/YISS/A/203
+  title: "Confirmation of Colour for Dry Riser and Hosereel Pipes in Riser Compartments"
+  issued_date: 19-Oct-2020
+  url: "https://drive.google.com/file/d/115WBpcBsSus-syxnUkfl0F2c8b9qkB_I/view?usp=sharing"
+
+- scme_no: SC/YISS/A/205
+  title: "Confirmation of Rack Orientation for LAN Rooms"
+  issued_date: 22-Oct-2020
+  url: "https://drive.google.com/file/d/17Q8O1a9ya-CJnH6neGAWgNIlNu66TtXa/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/219
+  title: "Confirmation on the Provision of Power and ELV Points for D&T Studio 1"
+  issued_date: 09-Nov-2020
+  url: "https://drive.google.com/file/d/1VI5ZxKUCVX3OPrttl-K9Yii99WMYpbF7/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/237
+  title: "Confirmation of Paint Color for Sprinkler Pipes in Sprinkler Pump Room"
+  issued_date: 14-Dec-2020
+  url: "https://drive.google.com/file/d/1-5ABgMPxZnkkxst9KuznoN7iLtFpjG3n/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/238
+  title: "Confirmation of Provision of Summary Switch for AV System for Typical Teaching Spaces and Laboratories"
+  issued_date: 17-Dec-2020
+  url: "https://drive.google.com/file/d/1PVt4eWdABfLxA8XEZ3tMkkqUeE_V3lhr/view?usp=sharing"
+
+- scme_no: SC/YISS/M&E/239
+  title: "Confirmation of Power Source for LAN and Server Rooms Gas Suppression Panels"
+  issued_date: 14-Dec-2020
+  url: "https://drive.google.com/file/d/15jn72fP7FlDgjagudiPSYjeWeBfrC8gK/view?usp=sharing"
 
 - scme_no: SC/YISS/M&E/240
   title: "Confirmation of Non-Provision for Lighting and Ceiling Fans at Roof Pavilions"
