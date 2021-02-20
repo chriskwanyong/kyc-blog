@@ -4,7 +4,7 @@ title:  "Updated M&E Site Confirmation List"
 date:   2021-02-20 9:00:00 +0800
 categories: jekyll update
 ---
-<table style="width:100%">
+<table style="width:55vw">
   <tr>
     <th>S/N</th>
     <th>SC Ref. No.</th>
