@@ -234,7 +234,7 @@ categories: jekyll update
   <!-- <li><a href="" target="_blank">Wireless Voice Enhancement System</a></li> -->
   <li><a href="https://drive.google.com/file/d/1r-ykU0FP-Js0dBbecmfLZGzgaQhFkMYm/view?usp=sharing" target="_blank">AV System - MPH</a></li>
   <li><a href="https://drive.google.com/file/d/1zR0aIqDoqUQIuv90wuR0zonbPehr3hYf/view?usp=sharing" target="_blank">AV System - Stage Lighting</a></li>
-  <li><a href="https://drive.google.com/file/d/1TjoZX54Z0QeV83Md6CrWNvuO4dFbfhX5/view?usp=sharing" target="_blank">AV System - Lecture Theatre</a></li>
+  <li><a href="https://drive.google.com/file/d/1OCk2t340mVQhChRBbG9dqE-M8rH77x1D/view?usp=sharing" target="_blank">AV System - Lecture Theatre</a></li>
   <li><a href="https://drive.google.com/file/d/1fv9PuljpBGCTzZx5yCEXxb3y0C9TxrG0/view?usp=sharing" target="_blank">AV System - Teaching Labs & Observation Room</a></li>
   <li><a href="https://drive.google.com/file/d/1cry6cRAH59fP7-_-LAUG160IBTLGI0Bw/view?usp=sharing" target="_blank">AV System - AV Room</a></li>
   <li><a href="https://drive.google.com/file/d/1yxoLN9kmWqvz2t0fxAzE6UmswSzmXFRX/view?usp=sharing" target="_blank">AV System - Professional Room 3 & 4</a></li>
