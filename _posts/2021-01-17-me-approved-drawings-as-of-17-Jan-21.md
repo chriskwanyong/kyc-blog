@@ -2,7 +2,7 @@
 layout: post
 title:  "Updated M&E Drawings"
 date:   2021-02-14 12:43:47 +0800
-categories: jekyll update
+# categories: jekyll update
 comments: true
 ---
 
@@ -22,6 +22,7 @@ comments: true
   <li><a href="#SLDDwgs">Electrical Single Line Diagrams</a></li>
   <li><a href="#ELVDwgs">ELV Schematic Diagrams</a></li>
   <li><a href="#LuxDwgs">Lux Simulation Reports</a></li>
+  <li><a href="#ElecOtherDwgs">Other Electrical Special Drawings</a></li>
   <li><a href="#IrrigationDwgs">Irrigation Drawings</a></li>
   <li><a href="#LiftDwgs">Lift Drawings</a></li>
   <li><a href="#SignageDwgs">Signage Drawings</a></li>
@@ -215,6 +216,13 @@ comments: true
   <li><a href="https://drive.google.com/file/d/13mLCDqqxAbV9xREPM_sJTqRvZ29RP_Am/view?usp=sharing" target="_blank">Food Laboratory</a></li>
   <li><a href="https://drive.google.com/file/d/1qsI6r6r4X-xXh9qFeXfC5XkrGl46n8Qy/view?usp=sharing" target="_blank">FCC</a></li>
   <li><a href="https://drive.google.com/file/d/122Dhio50FNcp_duVRyCoMyUkaGiFmuhi/view?usp=sharing" target="_blank">General Office ELV Wall</a></li>
+  <!-- <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li> -->
 </ul>
 
 <h3 id="SLDDwgs">Electrical Single Line Diagrams</h3>
@@ -252,6 +260,16 @@ comments: true
   <li><a href="#" target="_blank">7th Storey</a></li>
   <li><a href="#" target="_blank">Roof Storey</a></li> -->
 </ul>
+
+<h3 id="ElecOtherDwgs">Other Electrical Special Drawings</h3>
+<ul id="myUL">
+  <li><a href="https://drive.google.com/file/d/17td_oiHyRWGFmHn0CHLk9uYt79Q02l5d/view?usp=sharing" target="_blank">Earth Pit Locations Layout Plan</a></li>
+  <li><a href="https://drive.google.com/file/d/1BeoTj1CN-o8i7hvL9H3haKtEB9KpoZ6I/view?usp=sharing" target="_blank">Equipotential Bonding for Football Field Fence</a></li>
+  <!-- <li><a href="" target="_blank">x</a></li>
+  <li><a href="" target="_blank">x</a></li> -->
+</ul>
+
+
 
 <h3 id="ELVDwgs">ELV Schematic Diagrams</h3>
 <ul id="myUL">
