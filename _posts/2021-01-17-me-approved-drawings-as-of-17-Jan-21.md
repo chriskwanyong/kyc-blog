@@ -290,10 +290,10 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1JGAoQvjI5xLDgaCJSy7ggFab1c9pLDc8/view?usp=sharing" target="_blank">AV System - Lecture Theatre</a></li>
   <li><a href="https://drive.google.com/file/d/1tjxpAkQQ8liEZMecsfr2p7F1YbB2zupY/view?usp=sharing" target="_blank">AV System - AV Room</a></li>
   <li><a href="https://drive.google.com/file/d/1H-lgPHDSxjxOVXcszwcdZxUaBfs5gPIh/view?usp=sharing" target="_blank">AV System - Professional Room 1 & 2</a></li>
-  <li><a href="#" target="_blank">AV System - Professional Room 3 & 4</a></li>
+  <!-- <li><a href="#" target="_blank">AV System - Professional Room 3 & 4</a></li> -->
   <li><a href="https://drive.google.com/file/d/1y1qN0rZbnpEIdV3XCLQRQ-7f9bFSM_8P/view?usp=sharing" target="_blank">AV System - Professional Room 5 & 6</a></li>
+  <li><a href="https://drive.google.com/file/d/1-yu9bOECq1hz45IAgIIySu6jPlZ175Hf/view?usp=sharing" target="_blank">AV System - Laboratories</a></li>
   <li><a href="https://drive.google.com/file/d/1D48ioy8_3qbrOrjzlOZQ4TjEpWqm5Hhi/view?usp=sharing" target="_blank">EM Door Holder Schematic</a></li>
-  
 </ul>
 
 <h3 id="IrrigationDwgs">Irrigation Drawings</h3>
