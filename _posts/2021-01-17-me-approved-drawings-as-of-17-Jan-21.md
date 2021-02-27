@@ -30,6 +30,7 @@ comments: true
   <li><a href="#FloorFinishesDwgs">Floor Finishes Plans</a></li>
   <li><a href="#TileSettingOutDwgs">Tile Setting Out Plans</a></li>
   <li><a href="#WaterproofDwgs">Waterproofing Plans</a></li>
+  <li><a href="#FSSDDwgs">FSSD Drawings</a></li>
   <li><a href="#SchoolReferencesPhotos">School References Photos</a></li>
 </ul>
 
@@ -380,8 +381,8 @@ comments: true
 <h3 id="TileSettingOutDwgs">Tile Setting Out Plans</h3>
 <ul id="myUL">
   <li><a href="https://drive.google.com/file/d/1HuqiBxkxRQGRXOAGaCN-Hxc9VoNYBYen/view?usp=sharing" target="_blank">Physics Lab 1</a></li>
-  <li><a href="#" target="_blank"></a></li>
-  <li><a href="#" target="_blank"></a></li>
+  <!-- <li><a href="#" target="_blank"></a></li>
+  <li><a href="#" target="_blank"></a></li> -->
 </ul>
 
 <h3 id="WaterproofDwgs">Waterproofing Plans</h3>
@@ -397,6 +398,16 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1qip6jHiZZBUaaTU7eRKE-uHwdDKYLVyA/view?usp=sharing" target="_blank">Combined Waterproofing Plans</a></li>
 </ul>
 
+<h3 id="FSSD Dwgs">FSSD Drawings (CAD)</h3>
+<ul id="myUL">
+  <li><a href="https://drive.google.com/file/d/1AXlGB4yaLlG2HoRbM6cb-uxJVC-rBemA/view?usp=sharing" target="_blank">1st Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1SO6yNgPglCBQuVA4feOo_qTwHzkdxYTy/view?usp=sharing" target="_blank">2nd Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1AeJ4CvF5W5j1knSxEbkGABSpoYq3oKIs/view?usp=sharing" target="_blank">3rd Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1R_LUvyqMMfHec2t4og4CKmnXywOEl0m7/view?usp=sharing" target="_blank">4th Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1W5KhI556kIY6QqTmQsobBEdZTWkUH_b3/view?usp=sharing" target="_blank">5th Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1RHgP6J9a5b6A5CWKZ_4jgwXBAfkjMtRV/view?usp=sharing" target="_blank">6th & 7th Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1xYFYwlLtndDWFp-FsutcA5wiXZ5wC4qM/view?usp=sharing" target="_blank">Roof Storey</a></li>
+</ul>
 
 <h3 id="CeilingDwgs">Ceiling Plans</h3>
 <ul id="myUL">
