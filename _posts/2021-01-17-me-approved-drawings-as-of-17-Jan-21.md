@@ -175,7 +175,8 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1ieAotZ8g3BqmOTlXpEFItEtG0vS1VQFo/view?usp=sharing" target="_blank">D&T Studio 2 and Design Room 3 & 4</a></li>
   <li><a href="https://drive.google.com/file/d/1ObCadn2gWQGIWdEUHMIOW7JlahBVKB-n/view?usp=sharing" target="_blank">Commerce Room, Biology Lab, Chemistry Lab, Typical LAN Rooms</a></li>
   <li><a href="https://drive.google.com/file/d/1OwhLm2ZEwLDugXYFMP_vkgkuZHUmlw-d/view?usp=sharing" target="_blank">Food Lab, Typical Classrooms, & Humanities Room</a></li>
-  <li><a href="#" target="_blank"></a></li>
+  <li><a href="https://drive.google.com/file/d/1rqmohUH7493wcnLg3airISJ7o3FOAMGH/view?usp=sharing" target="_blank">Drop Off & Glass Canopy Lighting</a></li>
+  <!-- <li><a href="#" target="_blank"></a></li> -->
 
 
   
