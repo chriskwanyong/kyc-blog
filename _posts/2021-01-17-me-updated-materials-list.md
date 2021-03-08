@@ -238,6 +238,7 @@ categories: jekyll update
   <li><a href="https://drive.google.com/file/d/1fv9PuljpBGCTzZx5yCEXxb3y0C9TxrG0/view?usp=sharing" target="_blank">AV System - Teaching Labs & Observation Room</a></li>
   <li><a href="https://drive.google.com/file/d/1cry6cRAH59fP7-_-LAUG160IBTLGI0Bw/view?usp=sharing" target="_blank">AV System - AV Room</a></li>
   <li><a href="https://drive.google.com/file/d/1yxoLN9kmWqvz2t0fxAzE6UmswSzmXFRX/view?usp=sharing" target="_blank">AV System - Professional Room 3 & 4</a></li>
+  <li><a href="https://drive.google.com/file/d/1nc2iKAGJdQlv-3uNA63ggK6Rp0n3emg-/view?usp=sharing" target="_blank">AV System - Professional Room 3 & 4 - Rev 1</a></li>
   <li><a href="https://drive.google.com/file/d/14di7ZI2BjySpIIaOouISsiHzCG1RmlKM/view?usp=sharing" target="_blank">AV System - Professional Room 5 & 6</a></li>
   <li><a href="https://drive.google.com/file/d/1pOVQsLqiPL3Hal6yD9PRVmFSFnYFZ7sV/view?usp=sharing" target="_blank">AV System - Laboratories and Classrooms</a></li>  
   <!-- <li><a href="" target="_blank">Stage Lighting System</a></li> --> 	
