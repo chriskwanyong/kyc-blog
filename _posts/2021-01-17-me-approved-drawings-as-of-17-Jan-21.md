@@ -44,6 +44,7 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1NfpYUM9zfPliQlUvWFDCeYT3W_NbBQJa/view?usp=sharing" target="_blank">5th Storey</a></li>
   <li><a href="https://drive.google.com/file/d/17FEuEqLrzNma1w5yl2UohQHElnYGZRs6/view?usp=sharing" target="_blank">6th & 7th Storey</a></li>
   <li><a href="https://drive.google.com/file/d/10H_KY6g7iJeQVY5gQnlR8csb8e07_paO/view?usp=sharing" target="_blank">Roof Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1w8lR0ffpdql6VjhOBeKJBn5_ycHSGkpZ/view?usp=sharing" target="_blank">Retractable Seating</a></li>
 </ul>
 
 <h3 id="CSDDwgs">Combined Services Drawings</h3>
