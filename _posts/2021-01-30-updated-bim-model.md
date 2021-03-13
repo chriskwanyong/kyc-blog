@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated BIM Model"
-date:   2021-03-09 12:00:00 +0800
+date:   2021-03-13 09:30:00 +0800
 categories: 
 ---
 
@@ -13,4 +13,6 @@ categories:
 
 <!-- <iframe src="https://myhub.autodesk360.com/ue2ce628b/shares/public/SH919a0QTf3c32634dcf9dd2918249af1eda?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> -->
 
-<iframe src="https://myhub.autodesk360.com/ue2ce628b/shares/public/SH919a0QTf3c32634dcf4edd3aa9141500d9?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<!-- <iframe src="https://myhub.autodesk360.com/ue2ce628b/shares/public/SH919a0QTf3c32634dcf4edd3aa9141500d9?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> -->
+
+<iframe src="https://myhub.autodesk360.com/ue2ce628b/shares/public/SH919a0QTf3c32634dcffd77bad490950c79?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
