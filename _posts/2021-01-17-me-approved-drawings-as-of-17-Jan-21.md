@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated M&E Drawings"
-date:   2021-02-14 12:43:47 +0800
+date:   2021-03-13 9:00:00 +0800
 # categories: jekyll update
 comments: true
 ---
@@ -153,7 +153,7 @@ comments: true
 <h3 id="LtgDwgs">Lighting Layouts</h3>
 <ul id="myUL">
   <li><a href="https://drive.google.com/file/d/1hTJsV6A7eyRQIPpjvOQrHrGp0EZzlLW9/view?usp=sharing" target="_blank">Combined Lighting Overall Plans</a></li>  
-  <li><a href="https://drive.google.com/file/d/1DG-4PGqOA_PSDhZsfALoLyoyJqgSzCmz/view?usp=sharing" target="_blank">1st Storey</a></li>
+  <li><a href="https://drive.google.com/file/d/1WPN3gHs85fq4sncfFnQ8ICjutTbIqegN/view?usp=sharing" target="_blank">1st Storey</a></li>
   <li><a href="https://drive.google.com/file/d/1vnhrLJ4wCa93yJjmJlqx3qCVyLS1Re3W/view?usp=sharing" target="_blank">2nd Storey Part 2</a></li>
   <li><a href="https://drive.google.com/file/d/1seOB6gXWmQK7ivKX43H8TBIr5DVGPgYy/view?usp=sharing" target="_blank">3rd Storey</a></li>
   <li><a href="https://drive.google.com/file/d/1pBfIDcNVUnQS18Ogpe0KNwIV9yTC1EvK/view?usp=sharing" target="_blank">4th Storey</a></li>
@@ -170,6 +170,7 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1St7iHwsceReusxytk1fzTJC4ul19J84G/view?usp=sharing" target="_blank">General Office</a></li>
   <li><a href="https://drive.google.com/file/d/1TZBnoOuzmYbgg4yUXGjDqbw-TtDLGIYh/view?usp=sharing" target="_blank">Media Resource Library</a></li>
   <li><a href="https://drive.google.com/file/d/1GoQJb5BcBt9b3xu7ZwfIOYVwMpb9exXV/view?usp=sharing" target="_blank">D&T Studio 1 and Wood Machine Shop</a></li>
+  <li><a href="https://drive.google.com/file/d/1MZ9O0wlSltX9p10RXAcsaDKengFRUP7c/view?usp=sharing" target="_blank">Integrated Facility</a></li>
   <li><a href="https://drive.google.com/file/d/1J5M8eIU4hGl02ARCS_JhyPfK3Ojt-oHk/view?usp=sharing" target="_blank">Physics Lab & IT Learning Resource Rooms</a></li>
   <li><a href="https://drive.google.com/file/d/18XUUaFKwgmTy_vdB6EZYocDYLydLDcdg/view?usp=sharing" target="_blank">Staff Room and Learning Behavioural (LBS) Rooms</a></li>
   <li><a href="https://drive.google.com/file/d/1ieAotZ8g3BqmOTlXpEFItEtG0vS1VQFo/view?usp=sharing" target="_blank">D&T Studio 2 and Design Room 3 & 4</a></li>
@@ -177,10 +178,6 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1OwhLm2ZEwLDugXYFMP_vkgkuZHUmlw-d/view?usp=sharing" target="_blank">Food Lab, Typical Classrooms, & Humanities Room</a></li>
   <li><a href="https://drive.google.com/file/d/1rqmohUH7493wcnLg3airISJ7o3FOAMGH/view?usp=sharing" target="_blank">Drop Off & Glass Canopy Lighting</a></li>
   <!-- <li><a href="#" target="_blank"></a></li> -->
-
-
-  
-
 </ul>
 
 <h3 id="PwrDwgs">Power Layouts</h3>
@@ -196,7 +193,7 @@ comments: true
   <li><a href="https://drive.google.com/file/d/1RMgJVkHE4ORog7R0Vzjy6FLbkDt_Rghr/view?usp=sharing" target="_blank">7th Storey</a></li>
   <li><a href="https://drive.google.com/file/d/1qyVUFXKaNDcfZhKK8YLo9Uz-vTJPOxYJ/view?usp=sharing" target="_blank">Roof Storey</a></li>
   <li><a href="https://drive.google.com/file/d/16ELBE77Nf1HLJ0uqvrV2FxpEytRVfK9n/view?usp=sharing" target="_blank">Combined Power Detail Plans</a></li>
-  <li><a href="https://drive.google.com/file/d/1Hfr_IQe2iCj31OXBCPlhIM629N6JL3C9/view?usp=sharing" target="_blank">Lecture Theatre, Wood Machine Shop, Professional Room 5 & 6, and Wood Machine Shop</a></li>
+  <li><a href="https://drive.google.com/file/d/1Hfr_IQe2iCj31OXBCPlhIM629N6JL3C9/view?usp=sharing" target="_blank">Wood Machine Shop, Professional Room 5 & 6, and Wood Machine Shop</a></li>
   <li><a href="https://drive.google.com/file/d/1ugjGd7ayH76VC18ZbD4F0_9UJ1FEZiLw/view?usp=sharing" target="_blank">Media Resource Library</a></li>
   <li><a href="https://drive.google.com/file/d/1lTqIPj3QFJC1YptlxfJO8ThqJduhxOc4/view?usp=sharing" target="_blank">Professional Room 1 to 4</a></li>  
   <li><a href="https://drive.google.com/file/d/1tYhuEEuW3fYqM0hOHtVG57pjz0zezUdw/view?usp=sharing" target="_blank">General Office</a></li>
@@ -218,9 +215,9 @@ comments: true
   <li><a href="https://drive.google.com/file/d/13mLCDqqxAbV9xREPM_sJTqRvZ29RP_Am/view?usp=sharing" target="_blank">Food Laboratory</a></li>
   <li><a href="https://drive.google.com/file/d/1qsI6r6r4X-xXh9qFeXfC5XkrGl46n8Qy/view?usp=sharing" target="_blank">FCC</a></li>
   <li><a href="https://drive.google.com/file/d/122Dhio50FNcp_duVRyCoMyUkaGiFmuhi/view?usp=sharing" target="_blank">General Office ELV Wall</a></li>
-  <!-- <li><a href="" target="_blank">x</a></li>
-  <li><a href="" target="_blank">x</a></li>
-  <li><a href="" target="_blank">x</a></li>
+  <li><a href="https://drive.google.com/file/d/1yjyUQ2fmUoufrx2tKMSpHW037wjZ0Hfd/view?usp=sharing" target="_blank">Server Room</a></li>
+  <li><a href="https://drive.google.com/file/d/1BJvv8S-6kKZ_1H-jnkLkkuFDLcoa5m5m/view?usp=sharing" target="_blank">Lecture Theatre</a></li>
+  <!--<li><a href="" target="_blank">x</a></li>
   <li><a href="" target="_blank">x</a></li>
   <li><a href="" target="_blank">x</a></li>
   <li><a href="" target="_blank">x</a></li>
